@@ -14,4 +14,4 @@ Paul Quin is a San Francisco writer, teacher and desinger. Find out more at [his
 
 ## License
 
-Open-sourced under [MIT license](LICENSE.md).
+Copyright (c) 2014 Paul D. Quin under [MIT license](LICENSE.md).

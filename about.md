@@ -20,4 +20,4 @@ Love to hear from you any way you can reach me. Comment on this page, email me [
 
 ## Rights and permissions
 
-Open-sourced under [MIT license](LICENSE.md).
+Copyright (c) 2014 Paul D. Quin, released under [MIT license](LICENSE.md).

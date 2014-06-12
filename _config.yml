@@ -1,0 +1,22 @@
+# Dependencies
+markdown:         redcarpet
+pygments:         true
+
+# Permalinks
+permalink:        /:title.html
+
+# Setup
+title:            "WTF | PDQuin"
+tagline:          "Write | Teach | Format | The arc of a working life"
+url:              http://wtf.pdquin.com
+paginate:         1
+baseurl:          /
+author:
+  name:           Paul D Quin
+  url:            https://twitter.com/pdquin
+  email:          himself@pdquin.com
+
+# Custom vars
+version:          1.0.0
+github:
+  repo:           https://github.com/pdquin/pdquin.github.io

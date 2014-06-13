@@ -1,6 +1,6 @@
 # Dependencies
 markdown:         redcarpet
-pygments:         true
+highlighter:      pygments
 
 # Permalinks
 permalink:        /:title.html
@@ -8,16 +8,15 @@ permalink:        /:title.html
 # Setup
 title:            "WTF | PDQuin"
 tagline:          "Write | Teach | Format | The arc of a working life"
-url:              https://github.com/pdquin/pdquin.github.io.git
-paginate:         1
+url:              http://pdquin.com/
+paginate:         5
 baseurl:          /
 author:
   name:           Paul D Quin
-  url:            http://pdquin.com/
+  url:            https://twitter.com/pdquin
   email:          himself@pdquin.com
 
 # Custom vars
 version:          1.0.0
 github:
-  repo:           
-
+  repo:           https://github.com/pdquin/pdquin.github.io

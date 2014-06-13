@@ -14,7 +14,7 @@ baseurl:          /
 author:
   name:           Paul D Quin
   url:            https://twitter.com/pdquin
-  email:          himself@pdquin.com
+  email:          paul.d.quin@gmail.com
 
 # Custom vars
 version:          1.0.0

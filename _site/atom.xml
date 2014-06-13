@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>WTF | PDQuin</title>
- <link href="http://wtf.pdquin.com/atom.xml" rel="self"/>
- <link href="http://wtf.pdquin.com/"/>
- <updated>2014-06-12T16:24:14-07:00</updated>
- <id>http://wtf.pdquin.com</id>
+ <link href="https://github.com/pdquin/pdquin.github.io.git/atom.xml" rel="self"/>
+ <link href="https://github.com/pdquin/pdquin.github.io.git/"/>
+ <updated>2014-06-12T23:41:08-07:00</updated>
+ <id>https://github.com/pdquin/pdquin.github.io.git</id>
  <author>
    <name>Paul D Quin</name>
    <email>himself@pdquin.com</email>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>Design for the Ebb and Flow</title>
-   <link href="http://wtf.pdquin.com//design-for-the-ebb-and-flow.html"/>
+   <link href="https://github.com/pdquin/pdquin.github.io.git//design-for-the-ebb-and-flow.html"/>
    <updated>2014-06-09T00:00:00-07:00</updated>
-   <id>http://wtf.pdquin.com/design-for-the-ebb-and-flow</id>
+   <id>https://github.com/pdquin/pdquin.github.io.git/design-for-the-ebb-and-flow</id>
    <content type="html">&lt;p&gt;*WebDesign 0.Overview :: The state of the web design craft – and what&amp;#39;s next for me&lt;/p&gt;
 
 &lt;hr&gt;

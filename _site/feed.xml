@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>WTF | PDQuin</title>
+    <description></description>
+    <link>https://github.com/pdquin/pdquin.github.io//</link>
+    <atom:link href="https://github.com/pdquin/pdquin.github.io//feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>Design for the Ebb and Flow</title>
+        <description>&lt;p&gt;*WebDesign 0.Overview :: The state of the web design craft – and what&amp;#39;s next for me&lt;/p&gt;
+
+&lt;hr&gt;
+
+&lt;p&gt;When he put a name to it, this is what &lt;a href=&quot;http://alistapart.com/article/responsive-web-design/%20Ethan%20Marcotte&amp;#x27;s%20seminal%20proposal%20for%20adaptive%20design%20principles.&quot;&gt;Ethan Marcotte&lt;/a&gt; called the fluid breakpoint web design techniques he popularised. It’s my objective as I work on a new (for me) approach to the web based on five attributes: &lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt; Defined&lt;/li&gt;
+&lt;li&gt; Workable&lt;/li&gt;
+&lt;li&gt; Adaptive&lt;/li&gt;
+&lt;li&gt; Stimulating&lt;/li&gt;
+&lt;li&gt; Simple.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Folks often call Ethan’s approach ‘Responsive design’. As &lt;a href=&quot;http://www.markboulton.co.uk/journal/a-responsive-experience&quot;&gt;Mark Boulton&lt;/a&gt; notes, we’ve hardly begun to get responsive. &lt;strong&gt;Adaptive design&lt;/strong&gt;, for now, which is steps forward. And toward where we want to be, designing for the ebb and flow of things. &lt;/p&gt;
+
+&lt;p&gt;I’m beginning to put some of these ideas to the test. Before I get to far, here is a summary of my initial approach and my journey so far. For other coding novices exploring adaptive design, my map might help. If you are considering having me make you a site, this discussion where I’m coming from.&lt;/p&gt;
+
+&lt;h3&gt;0.1.Defined&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;If you can’t maintain&lt;/em&gt;&lt;/strong&gt; or update a design or content files, your site doesn’t work. New designers, editors and coders must be able to come into a project and take up where the old crew left off.&lt;/p&gt;
+
+&lt;p&gt;Clearly organised &lt;strong&gt;&lt;em&gt;specifications&lt;/em&gt;&lt;/strong&gt; define design logic and maintain clarity through correction and revision cycles. Sketching and wysiwyg layout tools work to rough in a design, but when it comes to tightening up details, one needs the precision of proportion, mathematics and relationship sequences – a set of written specs.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Annotations&lt;/em&gt;&lt;/strong&gt; in both design and content files organise and describe code, data and information structures and include tips on how to change content and presentation. In the raw css and html files, annotations help any designer or coder to understand, update, correct, revise or expand the site.&lt;/p&gt;
+
+&lt;h3&gt;0.2.Workable&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Content and design&lt;/em&gt;&lt;/strong&gt; files do little good when trapped in cul-de-sac, proprietary formats. It helps if everything needful is available in a self-sufficient, cross-platform, editable context. App development frameworks like Bootstrap help in starting, but I’m coming to the idea that final coding and fleshing out of details has to be a &lt;strong&gt;&lt;em&gt;custom job&lt;/em&gt;&lt;/strong&gt; every time – made accessible by the use of programs and tools that any designer, editor or programmer can run &lt;strong&gt;&lt;em&gt;on any common machine&lt;/em&gt;&lt;/strong&gt; using any OS.&lt;/p&gt;
+
+&lt;p&gt;I’m experimenting with Bower to construct portable contexts, or passepartout packages, for css and html development, refinement and processing. I&amp;#39;m making a bid to &lt;strong&gt;&lt;em&gt;break free of frameworks&lt;/em&gt;&lt;/strong&gt; and deliver easily understood, easily modified code.&lt;/p&gt;
+
+&lt;h3&gt;0.3.Adaptive&lt;/h3&gt;
+
+&lt;p&gt;A site is no good if users can’t load it. Several design techniques collaborate to &lt;strong&gt;&lt;em&gt;keep sites useful&lt;/em&gt;&lt;/strong&gt; on a range of display, communications and computation devices – including legacy devices common in less technologically sophisticated communities.
+- &lt;strong&gt;&lt;em&gt;Fluid grids&lt;/em&gt;&lt;/strong&gt; and &lt;strong&gt;&lt;em&gt;breakpoints&lt;/em&gt;&lt;/strong&gt; help layouts adapt to changing screen size. When refined using max|min values, grids can also control important readability functions such as line length.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;em&gt;Selective inclusion&lt;/em&gt;&lt;/strong&gt; provides each device the content it can productively handle, keeping the focus on important data, information and functionality and off-loading extras from core screens.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;em&gt;Ground-up operability&lt;/em&gt;&lt;/strong&gt; keeps key functions available on the lowest-level technology and adds bells and whistles as a device permits.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;em&gt;Neutral iconography&lt;/em&gt;&lt;/strong&gt;, paired with compulsive labelling, keeps functionality from getting trapped in proprietary corners, or confusing those outside the pale.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3&gt;0.4.Stimulating&lt;/h3&gt;
+
+&lt;p&gt;To begin with, a site must work. The next step is that the user is engaged by its content and activity. The user community must find the site &lt;strong&gt;&lt;em&gt;readable&lt;/em&gt;&lt;/strong&gt;, &lt;strong&gt;&lt;em&gt;legible&lt;/em&gt;&lt;/strong&gt; and &lt;strong&gt;&lt;em&gt;operable&lt;/em&gt;&lt;/strong&gt;. Adaptability of design helps, but clear access, activity, information and interaction requires further attention to details of colour, size, contrast, spacing, cultural context.&lt;/p&gt;
+
+&lt;p&gt;Engagement also comes from discussion and other forms of communication, which create active &lt;strong&gt;&lt;em&gt;user communities&lt;/em&gt;&lt;/strong&gt;, ignite a self-refining process and keep work relevant, simple and productive. &lt;strong&gt;&lt;em&gt;Communities of knowledge&lt;/em&gt;&lt;/strong&gt;, built through comments, links, credits and x-refs, are a parallel key to a productive and rewarding user experience – every site needs to have a system to keep data, information and knowledge connections current and authoritative.&lt;/p&gt;
+
+&lt;h3&gt;0.5.Simple&lt;/h3&gt;
+
+&lt;p&gt;A simple design with simple content has two primary characteristics: &lt;strong&gt;&lt;em&gt;Lean&lt;/em&gt;&lt;/strong&gt; and &lt;strong&gt;&lt;em&gt;clean&lt;/em&gt;&lt;/strong&gt;. It loads faster, works more smoothly and is beautiful to behold.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;At its most simple, lean means &lt;strong&gt;&lt;em&gt;minimisation&lt;/em&gt;&lt;/strong&gt;, cleaning up code, taking out the detritus so pages load fast.&lt;/li&gt;
+&lt;li&gt;At its most basic, clean means &lt;strong&gt;&lt;em&gt;logical&lt;/em&gt;&lt;/strong&gt;, &lt;strong&gt;&lt;em&gt;mathematical&lt;/em&gt;&lt;/strong&gt;, &lt;strong&gt;&lt;em&gt;coherent&lt;/em&gt;&lt;/strong&gt;. Human intelligence demands pattern and sequence, but exceptions or broken sequences have their own logic – which enhances understanding. &lt;/li&gt;
+&lt;li&gt;Polishing is a necessary, productive final step in site design, &lt;strong&gt;&lt;em&gt;bringing to life&lt;/em&gt;&lt;/strong&gt; the contributions of all stake-holders to produce a dynamic, accessible, engaging UX. &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3&gt;Your next step&lt;/h3&gt;
+
+&lt;p&gt;For too long, I’ve felt a distance between design values and customary web process and habits. Since meeting others who share my values and vocabulary, I’ve realised it’s possible to design with integrity, to achieve a &lt;strong&gt;&lt;em&gt;productive user experience&lt;/em&gt;&lt;/strong&gt;, clear specs and the integration of visuals, content and functionality. &lt;/p&gt;
+
+&lt;p&gt;Working together, we can change common practice; working on my own with intention and integrity, I can be more productive, have more fun and produce a better product. My work is increasingly responsive – getting better at giving both site owner and visitor what they ask, well organised and elegantly produced.&lt;/p&gt;
+
+&lt;p&gt;I’m learning to live with a semi-&lt;a href=&quot;http://herbjorn.wordpress.com/2010/11/05/simplifying-the-agile-manifesto/&quot;&gt;Agile&lt;/a&gt; credo: &lt;strong&gt;&lt;em&gt;Don’t wait on perfection – earn it&lt;/em&gt;&lt;/strong&gt;. I’m adapting to the idea of progressive enhancement – not the coder’s kluge but the idea of floating a workable first now, with more as it comes, because surely the world changes as we work and what started out best often ends obsolete. I make sure anyone can take over the follow-on, though working with me may become addictive.&lt;/p&gt;
+
+&lt;p&gt;I’m working on a web production passepartout, introduced in these articles. If you&amp;#39;re interested in being part of this web design experience, get in touch with me. I offer planning, design and execution services, including &lt;strong&gt;&lt;em&gt;full engagement&lt;/em&gt;&lt;/strong&gt; with content, look, art, interactivity and branding – for a special, test-case price.&lt;/p&gt;
+
+&lt;p&gt;&lt;aside&gt;
+This article introduces a five-part series beginning a design/coding/universe-of-the-internet conversation I hope to have with you and you and you as we all work on, use and consider the web and its apps. &lt;strong&gt;&lt;em&gt;Share your comments&lt;/em&gt;&lt;/strong&gt;, &lt;a href=&quot;himself@pdquin.com&quot;&gt;email&lt;/a&gt; me if you want, hire me if you’ve got a job that needs doing that I can use to move my ideas forward. Now we get down to work. Thanks for your help.&lt;/p&gt;
+
+&lt;p&gt;Thanks to &lt;strong&gt;&lt;em&gt;friends and colleagues&lt;/em&gt;&lt;/strong&gt; in the designer/producer community who have helped me get into the ebb and flow of site design, including Robert Nealan, Darcy Clarke, Craig Buckler and Richard Clark. Also, and always, thanks to my fellow information specialists, including Donna Kelley, Susan Catalano, John Zussman, Marta Sánchez-Vásquez and Janet Bensu.&lt;/p&gt;
+
+&lt;p&gt;I’m moving on up the learning curve, looking for real-world challenges to expand my strategies and technique. Take an opportunity to get with the ebb and flow of things. &lt;strong&gt;&lt;em&gt;Call me&lt;/em&gt;&lt;/strong&gt;. 
+&lt;/aside&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 09 Jun 2014 00:00:00 -0700</pubDate>
+        <link>https://github.com/pdquin/pdquin.github.io//design-for-the-ebb-and-flow.html</link>
+        <guid isPermaLink="true">https://github.com/pdquin/pdquin.github.io//design-for-the-ebb-and-flow.html</guid>
+      </item>
+    
+  </channel>
+</rss>

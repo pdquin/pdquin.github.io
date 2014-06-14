@@ -3,8 +3,8 @@
   <channel>
     <title>WTF | PDQuin</title>
     <description></description>
-    <link>https://github.com/pdquin/pdquin.github.io//</link>
-    <atom:link href="https://github.com/pdquin/pdquin.github.io//feed.xml" rel="self" type="application/rss+xml" />
+    <link>http://wtf.pdquin.com///</link>
+    <atom:link href="http://wtf.pdquin.com///feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
         <title>Design for the Ebb and Flow</title>
@@ -86,8 +86,8 @@ This article introduces a five-part series beginning a design/coding/universe-of
 &lt;/aside&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 09 Jun 2014 00:00:00 -0700</pubDate>
-        <link>https://github.com/pdquin/pdquin.github.io//design-for-the-ebb-and-flow.html</link>
-        <guid isPermaLink="true">https://github.com/pdquin/pdquin.github.io//design-for-the-ebb-and-flow.html</guid>
+        <link>http://wtf.pdquin.com///design-for-the-ebb-and-flow.html</link>
+        <guid isPermaLink="true">http://wtf.pdquin.com///design-for-the-ebb-and-flow.html</guid>
       </item>
     
   </channel>

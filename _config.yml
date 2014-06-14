@@ -8,7 +8,7 @@ permalink:        /:title.html
 # Setup
 title:            "WTF | PDQuin"
 tagline:          "Write | Teach | Format | The arc of a working life"
-url:              https://github.com/pdquin/pdquin.github.io
+url:              http://wtf.pdquin.com/
 paginate:         5
 baseurl:          /
 author:
@@ -18,5 +18,3 @@ author:
 
 # Custom vars
 version:          1.0.0
-github:
-  repo:           https://github.com/pdquin/pdquin.github.io

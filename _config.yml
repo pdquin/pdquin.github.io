@@ -8,6 +8,7 @@ permalink:        /:title.html
 # Setup
 title:            "WTF | PDQuin"
 tagline:          "Write | Teach | Format | The arc of a working life"
+description:      "Personal thoughts include: How-tos for designers about geeky things. Observations on the cultural and community scene. Experiments in writing and design. Thoughts on the integrity of language."
 url:              http://wtf.pdquin.com/
 paginate:         5
 baseurl:          /

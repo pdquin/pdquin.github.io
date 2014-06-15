@@ -117,8 +117,9 @@ strong {
 
 /* Lists */
 ul, ol, dl {
+  font-size: 0.75rem;
   margin-top: 0;
-  margin-bottom: 0.6rem;
+  margin-bottom: 1rem;
 }
 
 dt {

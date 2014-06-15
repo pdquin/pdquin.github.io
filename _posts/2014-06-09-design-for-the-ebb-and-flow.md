@@ -5,7 +5,7 @@ category: webdesign
 tag: theory
 ---
 
-*WebDesign 0.Overview :: The state of the web design craft – and what's next for me
+**_WebDesign 0.Overview :: The state of the web design craft – and what's next for me_**
 
 -----
 
@@ -68,10 +68,9 @@ I’m learning to live with a semi-[Agile](http://herbjorn.wordpress.com/2010/11
 
 I’m working on a web production passepartout, introduced in these articles. If you're interested in being part of this web design experience, get in touch with me. I offer planning, design and execution services, including **_full engagement_** with content, look, art, interactivity and branding – for a special, test-case price.
 
-<aside>
-This article introduces a five-part series beginning a design/coding/universe-of-the-internet conversation I hope to have with you and you and you as we all work on, use and consider the web and its apps. **_Share your comments_**, [email](himself@pdquin.com) me if you want, hire me if you’ve got a job that needs doing that I can use to move my ideas forward. Now we get down to work. Thanks for your help.
+###### Notes
+<p class="note">This article introduces a five-part series beginning a design/coding/universe-of-the-internet conversation I hope to have with you and you and you as we all work on, use and consider the web and its apps. **_Share your comments_**, [email](himself@pdquin.com) me if you want, hire me if you’ve got a job that needs doing that I can use to move my ideas forward. Now we get down to work. Thanks for your help.</p>
 
-Thanks to **_friends and colleagues_** in the designer/producer community who have helped me get into the ebb and flow of site design, including Robert Nealan, Darcy Clarke, Craig Buckler and Richard Clark. Also, and always, thanks to my fellow information specialists, including Donna Kelley, Susan Catalano, John Zussman, Marta Sánchez-Vásquez and Janet Bensu.
+<p class="note">Thanks to **_friends and colleagues_** in the designer/producer community who have helped me get into the ebb and flow of site design, including Robert Nealan, Darcy Clarke, Craig Buckler and Richard Clark. Also, and always, thanks to my fellow information specialists, including Donna Kelley, Susan Catalano, John Zussman, Marta Sánchez-Vásquez and Janet Bensu.</p>
 
-I’m moving on up the learning curve, looking for real-world challenges to expand my strategies and technique. Take an opportunity to get with the ebb and flow of things. **_Call me_**. 
-</aside>
+<p class="note">I’m moving on up the learning curve, looking for real-world challenges to expand my strategies and technique. Take an opportunity to get with the ebb and flow of things. **_Call me_**.</p>
